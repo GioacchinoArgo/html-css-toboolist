@@ -30,3 +30,32 @@ h1 {
     vertical-align: middle;
     font-size: 3.4rem;
 }
+
+/* nav */
+.nav-container {
+    margin: 2px auto;
+    width: 980px;
+    height: 60px;
+    border-radius: 8px 8px 0 0;
+    background-color: #fff;
+}
+
+.task {
+    padding: 8px;
+    margin-top: 12px;
+    margin-left: 50px;
+    font-size: 17px;
+    border: none;
+    border-radius: 7px;
+    background-color: #1E90FF;
+    color: #fff;
+}
+
+.section {
+    padding: 8px;
+    font-size: 16px;
+    border: solid grey 1px;
+    border-radius: 7px;
+    background-color: white;
+    color: grey;
+}
